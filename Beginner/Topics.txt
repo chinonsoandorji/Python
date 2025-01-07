@@ -1,0 +1,6 @@
+1. Entering Expressions into the interactive shell
+2. Floating-point numbers, Integers, and String datatypes
+3. String Concatenation and Replication
+4. Storing Values in Variables
+5. My first program
+6. Flow Control
