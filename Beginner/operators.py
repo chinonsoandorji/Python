@@ -13,7 +13,7 @@ print(10 // 3)
 
 # 4. The Modulus Operator
 print(20 % 4)
-print(20 % 3)
+print(20 % 3) # result will give the remainder
 
 # 5. The Addition Operator
 print( 100 + 35)
